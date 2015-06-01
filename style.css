@@ -1,0 +1,50 @@
+body {   
+    font-family: sans-serif;
+    max-width: 70%;
+}
+ 
+h1 {
+    font-size: 20pt;
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    border-bottom: solid;    
+}
+
+h2 {
+    font-size: 16pt;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+
+.unit {
+    background-color: #61717A;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+    
+.concept {
+    background-color: #E9E3CE;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+}
+
+.concept-title {    	
+    background-color: #E9E3CE;
+    font-size: 14pt;
+    color: black;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.concept-description {
+    background-color: #E9E3CE;
+    font-size: 12pt;
+    color: black;
+    margin: 6px;
+}
+
+            
